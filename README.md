@@ -21,15 +21,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Developer** and **FinTech Consultant** based in Dhaka, Bangladesh.
+I'm a **Software Developer** and **FinTech Consultant** based in Dhaka, Bangladesh — currently pursuing **BSc in Computer Science & Engineering at AIUB**.
 
 I build modern web applications and help startups & non-resident founders set up reliable financial infrastructure — from **payment gateway integrations** to **US LLC formation** and **international digital banking**.
 
-- 🛠️ Currently building production apps with **React, Next.js, Node.js, Python (Flask), Firebase**
-- 💳 Specializing in **PayPal & Stripe** integrations and **digital banking UX research**
-- 🤖 Exploring **Agentic AI**, **LLM integrations** and **blockchain** for financial products
-- 🌍 Helping **non-resident founders** register US LLCs and build payment infrastructure
-- 📫 Reach me at **contact@tanbinislam.xyz** · 🌐 **[tanbinislam.xyz](https://tanbinislam.xyz)**
+```ts
+const tanbin = {
+  role:      ['Software Developer', 'FinTech Consultant'],
+  stack:     ['React', 'Next.js', 'TypeScript', 'Node.js', 'Python', 'Flask'],
+  payments:  ['Stripe', 'PayPal', 'Meta Ads'],
+  exploring: ['Agentic AI', 'LLM Integrations', 'Blockchain'],
+  contact:   'contact@tanbinislam.xyz',
+  website:   'https://tanbinislam.xyz',
+};
+```
 
 ---
 
@@ -91,15 +96,13 @@ I build modern web applications and help startups & non-resident founders set up
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbin-CS&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E&area=true" alt="Contribution activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanbin-CS&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-</p>
+### 🐍 Contribution Snake
 
----
-
-## 🌐 Languages
-
-`Bengali` &nbsp;·&nbsp; `English`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
