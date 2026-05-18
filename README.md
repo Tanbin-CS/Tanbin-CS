@@ -71,8 +71,6 @@ I build modern web applications and help startups & non-resident founders set up
 <p>
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <img alt="Wise" src="https://img.shields.io/badge/Wise-9FE870?style=for-the-badge&logo=wise&logoColor=163300" />
-  <img alt="Mercury" src="https://img.shields.io/badge/Mercury-1E1E1E?style=for-the-badge&logo=mercury&logoColor=white" />
   <img alt="Meta Ads" src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
