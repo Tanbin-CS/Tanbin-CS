@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Developer** and **FinTech Consultant** based in Dhaka, Bangladesh, currently completing my **BSc in Computer Science & Engineering** at **American International University-Bangladesh (AIUB), 2026**.
+I'm a **Software Developer** and **FinTech Consultant** based in Dhaka, Bangladesh.
 
 I build modern web applications and help startups & non-resident founders set up reliable financial infrastructure — from **payment gateway integrations** to **US LLC formation** and **international digital banking**.
 
@@ -96,14 +96,6 @@ I build modern web applications and help startups & non-resident founders set up
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tanbin-CS&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 </p>
-
----
-
-## 🎓 Education
-
-- **BSc in Computer Science & Engineering** — American International University-Bangladesh (AIUB) · *2026* · CGPA 3.01
-- **Higher Secondary Certificate** — New Govt. Degree College, Rajshahi · *2020* · GPA 5.00 (Science)
-- **Secondary School Certificate** — Naogaon Zilla School · *2018* · GPA 5.00 (Science)
 
 ---
 
