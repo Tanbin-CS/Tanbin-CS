@@ -25,16 +25,11 @@ I'm a **Software Developer** and **FinTech Consultant** based in Dhaka, Banglade
 
 I build modern web applications and help startups & non-resident founders set up reliable financial infrastructure — from **payment gateway integrations** to **US LLC formation** and **international digital banking**.
 
-```ts
-const tanbin = {
-  role:      ['Software Developer', 'FinTech Consultant'],
-  stack:     ['React', 'Next.js', 'TypeScript', 'Node.js', 'Python', 'Flask'],
-  payments:  ['Stripe', 'PayPal', 'Meta Ads'],
-  exploring: ['Agentic AI', 'LLM Integrations', 'Blockchain'],
-  contact:   'contact@tanbinislam.xyz',
-  website:   'https://tanbinislam.xyz',
-};
-```
+- 🛠️ &nbsp; Building production apps with **React, Next.js, Node.js, Python & Firebase**
+- 💳 &nbsp; Payment integrations — **Stripe, PayPal** and international digital banking
+- 🤖 &nbsp; Exploring **Agentic AI, LLM integrations & blockchain** for FinTech
+- 🌍 &nbsp; Helping **non-resident founders** with US LLC setup & payment infrastructure
+- 📫 &nbsp; Reach me at **contact@tanbinislam.xyz** · 🌐 **[tanbinislam.xyz](https://tanbinislam.xyz)**
 
 ---
 
@@ -76,21 +71,36 @@ const tanbin = {
 <p>
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <img alt="Meta Ads" src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanbin-CS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7" alt="Tanbin-CS GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanbin-CS&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&langs_count=8" alt="Top languages" />
+  <i>All graphs below are auto-generated from my live GitHub activity and refreshed every 6 hours.</i>
 </p>
 
+### Overview
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanbin-CS&theme=tokyonight&hide_border=true&background=1A1B2600&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics.svg" alt="GitHub metrics overview" />
 </p>
+
+### Languages & Activity
+
+<p align="center">
+  <img height="220" src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics-languages.svg" alt="Most used languages" />
+  <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanbin-CS&theme=tokyonight&hide_border=true&background=1A1B2600&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak" />
+</p>
+
+### Contribution Calendar (3D)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics-isocalendar.svg" alt="Contribution isocalendar" />
+</p>
+
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbin-CS&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E&area=true" alt="Contribution activity graph" />
