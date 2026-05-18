@@ -94,16 +94,16 @@ I build modern web applications and help startups & non-resident founders set up
   <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanbin-CS&theme=tokyonight&hide_border=true&background=1A1B2600&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak" />
 </p>
 
-### Contribution Calendar (3D)
+### Coding Habits & Lines of Code
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics-isocalendar.svg" alt="Contribution isocalendar" />
+  <img src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics-habits.svg" alt="Coding habits — when I commit, indent style, language patterns" />
 </p>
 
-### Activity Graph
+### Contribution Calendar (3D, last 6 months)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanbin-CS&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E&area=true" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/Tanbin-CS/Tanbin-CS/output/metrics-isocalendar.svg" alt="3D contribution isocalendar" />
 </p>
 
 ### 🐍 Contribution Snake
